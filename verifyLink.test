@@ -1,0 +1,2 @@
+page https://fmph.uniba.sk/
+verifyElement '//a[@href="/kontakt/ako-sa-k-nam-dostanete/"]'

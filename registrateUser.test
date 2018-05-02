@@ -1,0 +1,25 @@
+page http://automationpractice.com/
+click login
+send testingemail202@gmail.com to email_create
+click SubmitCreate
+waitfor submitAccount
+send FirstName to customer_firstname
+send LastName to customer_lastname
+send password to passwd
+select days 20
+select months 1
+select years 1990
+send firstname to firstname
+send lastname to lastname
+send samplecompany to company
+send address1 to address1
+send address2 to address2
+send Bratislava to city
+select id_state Alaska
+send 84104 to postcode
+send United States to id_country
+send other to other
+send 09876554321 to phone
+send 1234567890 to phone_mobile
+send addressalias to alias
+click submitAccount

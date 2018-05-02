@@ -1,0 +1,7 @@
+page http://automationpractice.com/
+click login
+send testingemail202@gmail.com to email
+send password to passwd
+click SubmitLogin
+def accountElement = //a[@class='account']
+verifyText FirstName LastName in accountElement

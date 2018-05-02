@@ -1,0 +1,167 @@
+[INFO  - 2018-04-04T00:36:20.141Z] GhostDriver - Main - running on port 43678
+[INFO  - 2018-04-04T00:36:20.614Z] Session [31e3ae20-37a0-11e8-a966-ab962f8deffe] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2018-04-04T00:36:20.614Z] Session [31e3ae20-37a0-11e8-a966-ab962f8deffe] - page.customHeaders:  - {}
+[INFO  - 2018-04-04T00:36:20.614Z] Session [31e3ae20-37a0-11e8-a966-ab962f8deffe] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-04-04T00:36:20.614Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 31e3ae20-37a0-11e8-a966-ab962f8deffe
+[ERROR - 2018-04-04T00:36:32.130Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1522802192087
+[ERROR - 2018-04-04T00:36:33.249Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1522802193203
+[ERROR - 2018-04-04T00:36:39.021Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1522802198971
+[ERROR - 2018-04-04T00:36:39.416Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1522802199384
+[ERROR - 2018-04-04T00:36:39.731Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1522802199701
+[INFO  - 2018-04-04T00:41:20.137Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-04-04T00:41:20.137Z] SessionManagerReqHand - _cleanupWindowlessSessions - Deleted Session '31e3ae20-37a0-11e8-a966-ab962f8deffe', because windowless
+[INFO  - 2018-04-04T02:54:58.395Z] GhostDriver - Main - running on port 10465
+[INFO  - 2018-04-04T02:54:59.010Z] Session [900a2de0-37b3-11e8-9139-d5cc9a866355] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":false}
+[INFO  - 2018-04-04T02:54:59.010Z] Session [900a2de0-37b3-11e8-9139-d5cc9a866355] - page.customHeaders:  - {}
+[INFO  - 2018-04-04T02:54:59.010Z] Session [900a2de0-37b3-11e8-9139-d5cc9a866355] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-04-04T02:54:59.010Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 900a2de0-37b3-11e8-9139-d5cc9a866355
+[ERROR - 2018-04-04T02:55:22.744Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1522810522707
+[ERROR - 2018-04-04T02:55:23.854Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1522810523809
+[ERROR - 2018-04-04T02:55:28.938Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1522810528889
+[ERROR - 2018-04-04T02:55:29.360Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1522810529330
+[ERROR - 2018-04-04T02:55:29.688Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1522810529657
+[INFO  - 2018-04-04T02:59:58.579Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-04-04T02:59:58.579Z] SessionManagerReqHand - _cleanupWindowlessSessions - Deleted Session '900a2de0-37b3-11e8-9139-d5cc9a866355', because windowless
+[INFO  - 2018-04-04T03:02:27.703Z] GhostDriver - Main - running on port 36437
+[INFO  - 2018-04-04T03:02:28.145Z] Session [9bbebdd0-37b4-11e8-8657-793f652840a4] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":false}
+[INFO  - 2018-04-04T03:02:28.145Z] Session [9bbebdd0-37b4-11e8-8657-793f652840a4] - page.customHeaders:  - {}
+[INFO  - 2018-04-04T03:02:28.145Z] Session [9bbebdd0-37b4-11e8-8657-793f652840a4] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-04-04T03:02:28.145Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 9bbebdd0-37b4-11e8-8657-793f652840a4
+[ERROR - 2018-04-04T03:02:47.622Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1522810967590
+[ERROR - 2018-04-04T03:02:48.693Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1522810968690
+[ERROR - 2018-04-04T03:02:49.605Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1522810969574
+[ERROR - 2018-04-04T03:02:50.460Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1522810970429
+[INFO  - 2018-04-04T03:03:26.752Z] GhostDriver - Main - running on port 47159
+[INFO  - 2018-04-04T03:03:26.941Z] Session [beca4c90-37b4-11e8-a7b4-8b5d8a68ae4e] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":false}
+[INFO  - 2018-04-04T03:03:26.941Z] Session [beca4c90-37b4-11e8-a7b4-8b5d8a68ae4e] - page.customHeaders:  - {}
+[INFO  - 2018-04-04T03:03:26.941Z] Session [beca4c90-37b4-11e8-a7b4-8b5d8a68ae4e] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-04-04T03:03:26.941Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: beca4c90-37b4-11e8-a7b4-8b5d8a68ae4e
+[ERROR - 2018-04-04T03:03:36.723Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1522811016688
+[ERROR - 2018-04-04T03:03:37.835Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1522811017831
+[ERROR - 2018-04-04T03:03:38.717Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1522811018695
+[ERROR - 2018-04-04T03:03:39.560Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1522811019533
+[INFO  - 2018-04-04T03:05:30.657Z] GhostDriver - Main - running on port 26902
+[INFO  - 2018-04-04T03:05:31.205Z] Session [08dba220-37b5-11e8-8c01-97547ae8432c] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":false}
+[INFO  - 2018-04-04T03:05:31.209Z] Session [08dba220-37b5-11e8-8c01-97547ae8432c] - page.customHeaders:  - {}
+[INFO  - 2018-04-04T03:05:31.209Z] Session [08dba220-37b5-11e8-8c01-97547ae8432c] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-04-04T03:05:31.210Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 08dba220-37b5-11e8-8c01-97547ae8432c
+[ERROR - 2018-04-04T03:05:42.575Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1522811142540
+[ERROR - 2018-04-04T03:05:43.712Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1522811143663
+[ERROR - 2018-04-04T03:05:44.565Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1522811144538
+[ERROR - 2018-04-04T03:05:45.403Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1522811145368
+[INFO  - 2018-04-04T03:07:27.701Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-04-04T03:07:27.702Z] SessionManagerReqHand - _cleanupWindowlessSessions - Deleted Session '9bbebdd0-37b4-11e8-8657-793f652840a4', because windowless
+[INFO  - 2018-04-04T03:08:26.752Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-04-04T03:08:26.753Z] SessionManagerReqHand - _cleanupWindowlessSessions - Deleted Session 'beca4c90-37b4-11e8-a7b4-8b5d8a68ae4e', because windowless
+[INFO  - 2018-04-04T03:10:24.547Z] GhostDriver - Main - running on port 39286
+[INFO  - 2018-04-04T03:10:24.825Z] Session [b7de5650-37b5-11e8-8f77-53256ed09132] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":false}
+[INFO  - 2018-04-04T03:10:24.825Z] Session [b7de5650-37b5-11e8-8f77-53256ed09132] - page.customHeaders:  - {}
+[INFO  - 2018-04-04T03:10:24.825Z] Session [b7de5650-37b5-11e8-8f77-53256ed09132] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-04-04T03:10:24.825Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: b7de5650-37b5-11e8-8f77-53256ed09132
+[INFO  - 2018-04-04T03:10:30.658Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-04-04T03:10:30.659Z] SessionManagerReqHand - _cleanupWindowlessSessions - Deleted Session '08dba220-37b5-11e8-8c01-97547ae8432c', because windowless
+[ERROR - 2018-04-04T03:11:17.547Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1522811477513
+[ERROR - 2018-04-04T03:11:18.687Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1522811478641
+[ERROR - 2018-04-04T03:11:19.731Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1522811479707
+[ERROR - 2018-04-04T03:11:20.542Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1522811480520
+[INFO  - 2018-04-04T03:15:24.576Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-04-04T03:15:24.582Z] SessionManagerReqHand - _cleanupWindowlessSessions - Deleted Session 'b7de5650-37b5-11e8-8f77-53256ed09132', because windowless
+[INFO  - 2018-04-04T03:20:44.260Z] GhostDriver - Main - running on port 38176
+[INFO  - 2018-04-04T03:20:44.741Z] Session [295e0310-37b7-11e8-9d58-07f45d79ee13] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":false}
+[INFO  - 2018-04-04T03:20:44.741Z] Session [295e0310-37b7-11e8-9d58-07f45d79ee13] - page.customHeaders:  - {}
+[INFO  - 2018-04-04T03:20:44.742Z] Session [295e0310-37b7-11e8-9d58-07f45d79ee13] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-04-04T03:20:44.742Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 295e0310-37b7-11e8-9d58-07f45d79ee13
+[ERROR - 2018-04-04T03:20:53.590Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1522812053557
+[ERROR - 2018-04-04T03:20:54.736Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1522812054684
+[ERROR - 2018-04-04T03:20:55.609Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1522812055588
+[ERROR - 2018-04-04T03:20:59.821Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1522812059798
+[ERROR - 2018-04-04T03:21:00.246Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1522812060217
+[INFO  - 2018-04-04T03:25:44.574Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-04-04T03:25:44.580Z] SessionManagerReqHand - _cleanupWindowlessSessions - Deleted Session '295e0310-37b7-11e8-9d58-07f45d79ee13', because windowless
+[INFO  - 2018-04-04T03:57:29.031Z] GhostDriver - Main - running on port 1211
+[INFO  - 2018-04-04T03:57:29.339Z] Session [4b68f870-37bc-11e8-9821-f56f7c6a159c] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":false}
+[INFO  - 2018-04-04T03:57:29.339Z] Session [4b68f870-37bc-11e8-9821-f56f7c6a159c] - page.customHeaders:  - {}
+[INFO  - 2018-04-04T03:57:29.339Z] Session [4b68f870-37bc-11e8-9821-f56f7c6a159c] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-04-04T03:57:29.339Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 4b68f870-37bc-11e8-9821-f56f7c6a159c
+[ERROR - 2018-04-04T03:57:40.034Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1522814259991
+[ERROR - 2018-04-04T03:57:41.265Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1522814261226
+[ERROR - 2018-04-04T03:57:42.169Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1522814262144
+[ERROR - 2018-04-04T03:57:46.821Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1522814266798
+[ERROR - 2018-04-04T03:57:47.256Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1522814267216
+[INFO  - 2018-04-04T04:02:29.568Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-04-04T04:02:29.574Z] SessionManagerReqHand - _cleanupWindowlessSessions - Deleted Session '4b68f870-37bc-11e8-9821-f56f7c6a159c', because windowless
+[INFO  - 2018-04-04T05:18:49.391Z] GhostDriver - Main - running on port 42918
+[INFO  - 2018-04-04T05:18:49.439Z] Session [a82d22b0-37c7-11e8-b653-f521588f3f9b] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":false}
+[INFO  - 2018-04-04T05:18:49.439Z] Session [a82d22b0-37c7-11e8-b653-f521588f3f9b] - page.customHeaders:  - {}
+[INFO  - 2018-04-04T05:18:49.439Z] Session [a82d22b0-37c7-11e8-b653-f521588f3f9b] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-04-04T05:18:49.439Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: a82d22b0-37c7-11e8-b653-f521588f3f9b
+[ERROR - 2018-04-04T05:19:19.851Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1522819159820
+[ERROR - 2018-04-04T05:19:21.070Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1522819161015
+[ERROR - 2018-04-04T05:19:21.988Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1522819161954
+[ERROR - 2018-04-04T05:19:26.569Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1522819166544
+[ERROR - 2018-04-04T05:19:26.971Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1522819166936
+[INFO  - 2018-04-04T05:23:49.543Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-04-04T05:23:49.549Z] SessionManagerReqHand - _cleanupWindowlessSessions - Deleted Session 'a82d22b0-37c7-11e8-b653-f521588f3f9b', because windowless
+[INFO  - 2018-04-04T10:13:48.648Z] GhostDriver - Main - running on port 8576
+[INFO  - 2018-04-04T10:13:48.685Z] Session [ddbf9880-37f0-11e8-a3fe-49a02d3435e6] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":false}
+[INFO  - 2018-04-04T10:13:48.685Z] Session [ddbf9880-37f0-11e8-a3fe-49a02d3435e6] - page.customHeaders:  - {}
+[INFO  - 2018-04-04T10:13:48.685Z] Session [ddbf9880-37f0-11e8-a3fe-49a02d3435e6] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-04-04T10:13:48.685Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: ddbf9880-37f0-11e8-a3fe-49a02d3435e6
+[ERROR - 2018-04-04T10:14:42.945Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1522836882915
+[ERROR - 2018-04-04T10:14:44.089Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1522836884088
+[ERROR - 2018-04-04T10:14:44.980Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1522836884954
+[ERROR - 2018-04-04T10:14:51.411Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1522836891362
+[ERROR - 2018-04-04T10:14:51.990Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1522836891983
+[INFO  - 2018-04-04T10:18:13.713Z] GhostDriver - Main - running on port 17581
+[INFO  - 2018-04-04T10:18:13.783Z] Session [7bc193d0-37f1-11e8-9eda-e91e49b6d839] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":false}
+[INFO  - 2018-04-04T10:18:13.783Z] Session [7bc193d0-37f1-11e8-9eda-e91e49b6d839] - page.customHeaders:  - {}
+[INFO  - 2018-04-04T10:18:13.783Z] Session [7bc193d0-37f1-11e8-9eda-e91e49b6d839] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-04-04T10:18:13.783Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 7bc193d0-37f1-11e8-9eda-e91e49b6d839
+[INFO  - 2018-04-04T10:18:48.659Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-04-04T10:18:48.659Z] SessionManagerReqHand - _cleanupWindowlessSessions - Deleted Session 'ddbf9880-37f0-11e8-a3fe-49a02d3435e6', because windowless
+[ERROR - 2018-04-04T10:18:55.544Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1522837135489
+[ERROR - 2018-04-04T10:18:57.238Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1522837137210
+[ERROR - 2018-04-04T10:18:58.598Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1522837138592
+[ERROR - 2018-04-04T10:19:05.867Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1522837145823
+[ERROR - 2018-04-04T10:19:06.354Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1522837146296
+[INFO  - 2018-04-04T10:23:13.711Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-04-04T10:23:13.711Z] SessionManagerReqHand - _cleanupWindowlessSessions - Deleted Session '7bc193d0-37f1-11e8-9eda-e91e49b6d839', because windowless
+[INFO  - 2018-04-04T10:24:39.044Z] GhostDriver - Main - running on port 26458
+[INFO  - 2018-04-04T10:24:39.067Z] Session [61682a70-37f2-11e8-bc7a-d787e79a878e] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":false}
+[INFO  - 2018-04-04T10:24:39.067Z] Session [61682a70-37f2-11e8-bc7a-d787e79a878e] - page.customHeaders:  - {}
+[INFO  - 2018-04-04T10:24:39.067Z] Session [61682a70-37f2-11e8-bc7a-d787e79a878e] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-04-04T10:24:39.067Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 61682a70-37f2-11e8-bc7a-d787e79a878e
+[ERROR - 2018-04-04T10:25:22.434Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1522837522401
+[ERROR - 2018-04-04T10:25:23.741Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1522837523689
+[ERROR - 2018-04-04T10:25:24.729Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1522837524696
+[ERROR - 2018-04-04T10:25:31.861Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1522837531831
+[ERROR - 2018-04-04T10:25:32.241Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1522837532208
+[INFO  - 2018-04-04T10:29:39.461Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-04-04T10:29:39.461Z] SessionManagerReqHand - _cleanupWindowlessSessions - Deleted Session '61682a70-37f2-11e8-bc7a-d787e79a878e', because windowless
+[INFO  - 2018-04-18T00:10:01.455Z] GhostDriver - Main - running on port 32056
+[INFO  - 2018-04-18T00:10:01.638Z] Session [d6879020-429c-11e8-87d6-fdc51eec88eb] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":false}
+[INFO  - 2018-04-18T00:10:01.639Z] Session [d6879020-429c-11e8-87d6-fdc51eec88eb] - page.customHeaders:  - {}
+[INFO  - 2018-04-18T00:10:01.639Z] Session [d6879020-429c-11e8-87d6-fdc51eec88eb] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-04-18T00:10:01.639Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: d6879020-429c-11e8-87d6-fdc51eec88eb
+[ERROR - 2018-04-18T00:10:31.856Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1524010231808
+[ERROR - 2018-04-18T00:10:33.171Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1524010233138
+[ERROR - 2018-04-18T00:10:34.246Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1524010234208
+[ERROR - 2018-04-18T00:10:38.833Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1524010238807
+[ERROR - 2018-04-18T00:10:39.222Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1524010239188
+[INFO  - 2018-04-18T00:15:01.474Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-04-18T00:15:01.474Z] SessionManagerReqHand - _cleanupWindowlessSessions - Deleted Session 'd6879020-429c-11e8-87d6-fdc51eec88eb', because windowless
+[INFO  - 2018-04-27T10:46:47.410Z] GhostDriver - Main - running on port 40470
+[INFO  - 2018-04-27T10:46:47.500Z] Session [48b75b90-4a08-11e8-9f41-4d54a7488b81] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.1.1 Safari/538.1","webSecurityEnabled":false}
+[INFO  - 2018-04-27T10:46:47.501Z] Session [48b75b90-4a08-11e8-9f41-4d54a7488b81] - page.customHeaders:  - {}
+[INFO  - 2018-04-27T10:46:47.501Z] Session [48b75b90-4a08-11e8-9f41-4d54a7488b81] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.1.1","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-unknown-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2018-04-27T10:46:47.501Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: 48b75b90-4a08-11e8-9f41-4d54a7488b81
+[ERROR - 2018-04-27T10:47:16.379Z] Session [48b75b90-4a08-11e8-9f41-4d54a7488b81] - page.onError - msg: ErrorUtils caught an error: "Cannot listen to an undefined element. TAAL[2]". Subsequent errors won't be logged; see https://fburl.com/debugjs.
+[ERROR - 2018-04-27T10:47:16.380Z] Session [48b75b90-4a08-11e8-9f41-4d54a7488b81] - page.onError - stack:
+  reportError (https://static.xx.fbcdn.net/rsrc.php/v3/yy/r/vzaSgUO8-lZ.js:57)
+[ERROR - 2018-04-27T10:47:16.690Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1524826036644
+[ERROR - 2018-04-27T10:47:17.909Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1524826037902
+[ERROR - 2018-04-27T10:47:18.851Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1524826038826
+[ERROR - 2018-04-27T10:47:25.064Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1524826045039
+[ERROR - 2018-04-27T10:47:25.492Z] WebElementLocator - _handleLocateCommand - Element(s) NOT Found: GAVE UP. Search Stop Time: 1524826045456
+[INFO  - 2018-04-27T10:51:47.419Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2018-04-27T10:51:47.419Z] SessionManagerReqHand - _cleanupWindowlessSessions - Deleted Session '48b75b90-4a08-11e8-9f41-4d54a7488b81', because windowless
